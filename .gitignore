@@ -1,0 +1,5 @@
+env/
+env_x86/
+clean_env/
+venv/
+
